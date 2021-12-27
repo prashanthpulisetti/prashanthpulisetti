@@ -1,6 +1,7 @@
 ### Hi there, I'm Sai Prashanth -  👋
 
-## I'm a Cyber Security Engineer, Malware Analyst, Developer, and a Geek!!
+[![Website](https://img.shields.io/website?label=tryhackme.com/p/sprashanth&style=for-the-badge&url=https://https://tryhackme.com/p/sprashanth)](https://https://tryhackme.com/p/sprashanth)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Pulisettis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=)
 
 - I’m currently working at ECI as Cyber Security Engineer.
 - I’m looking to collaborate with other content creators
