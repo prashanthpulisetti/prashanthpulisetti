@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=tryhackme.com/p/sprashanth&style=for-the-badge&url=https://tryhackme.com/p/sprashanth)](https://https://tryhackme.com/p/sprashanth)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pulisettis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=)
 
-- I’m currently working at ECI as Cyber Security Engineer.
+- I’m currently working at ECI as SOC Engineer.
 - I’m looking to collaborate with other content creators
 - 2022 Goals: e-CPPT,PNPT and OSCP
 
@@ -38,7 +38,7 @@
 
 ### Certifications 📜
 <div align=left>
-<code><img height="45" src="https://elearnsecurity.com/wp-content/uploads/eJPT.png"></code> 
+<code><img height="45" src="https://elearnsecurity.com/wp-content/uploads/eJPT.png"></code>
 <code><img height="45" src="https://miro.medium.com/max/800/1*xb3RMVfkD4w9BgIGRL9kDw.jpeg"></code>
 </div>
 
