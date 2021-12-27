@@ -37,7 +37,11 @@
 
 
 ### Certifications 📜
-CHFI | E-JPT |
+<div align=left>
+<code><img height="45" src="https://elearnsecurity.com/wp-content/uploads/eJPT.png"></code> |
+<code><img height="45" src="https://miro.medium.com/max/800/1*xb3RMVfkD4w9BgIGRL9kDw.jpeg"></code>
+</div>
+
 
 ![HuskyHacks GitHub stats](https://github-readme-stats.vercel.app/api?username=prashanthpulisetti&count_private=true&theme=dracula&show_icons=true)
 
