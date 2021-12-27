@@ -39,6 +39,9 @@
 ### Certifications 📜
 CHFI | E-JPT |
 
+![HuskyHacks GitHub stats](https://github-readme-stats.vercel.app/api?username=prashanthpulisetti&count_private=true&theme=dracula&show_icons=true)
+
+
 
 ### 📕 Latest Blog Posts
 
