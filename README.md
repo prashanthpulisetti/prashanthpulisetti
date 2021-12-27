@@ -57,3 +57,7 @@ CHFI | E-JPT |
 [twitter]: https://twitter.com/Pulisettis
 [instagram]: https://instagram.com/prashanth_pulisetti
 [linkedin]: https://www.linkedin.com/in/pulisettiprashanth/
+
+
+### Acknowledgements
+- I built my home page off of the incredible template created by codeSTACKr. Check out the tutorial on how to make a sweet GitHub homepage [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr). And check out his profile page [here](https://github.com/codeSTACKr).
