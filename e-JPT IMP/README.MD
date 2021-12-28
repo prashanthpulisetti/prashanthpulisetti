@@ -1,7 +1,7 @@
 ### eJPT exam preparation resources
 
-Official Course Material( PDF,Video,Labs)[inewebsite]
-Notes[notes]
+- Official Course Material( PDF,Video,Labs)[inewebsite]
+- Notes[notes]
 
 
 
