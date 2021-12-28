@@ -51,6 +51,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [e-JPT Complete Guide/Notes](https://github.com/prashanthpulisetti/prashanthpulisetti/blob/main/e-JPT%20IMP/README.MD)
 - [Decode Obfuscated Powershell Script in 5 mins](https://medium.com/@prashanth.pulisetti/decode-obfuscated-powershell-script-in-5-mins-dca297c04577)
 - [Hack, learn and get rewards](https://medium.com/@prashanth.pulisetti/hack-learn-and-get-rewards-f0f457cf60c2)
 - [Sakura Room Tryhackme write-up](https://github.com/prashanthpulisetti/Tryhackme/blob/main/Sakura%20Room%20Tryhackme%20write-up)

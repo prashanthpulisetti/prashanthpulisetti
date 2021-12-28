@@ -189,8 +189,16 @@ https://tryhackme.com/room/hashingcrypto101
 - https://kentosec.com/2019/08/04/how-to-pass-the-ejpt/
 - https://kentosec.com/2019/08/04/elearnsecurity-junior-penetration-tester-ejpt-course-review/
 
-
+### Cheat sheet
+- https://github.com/JasonTurley/eJPT/blob/main/cheat-sheet.md
+- https://github.com/fdicarlo/eJPT
+- https://github.com/d3m0n4l3x/eJPT
+- https://github.com/osV22/ejpt_notes
+- https://githubmate.com/repo/tejasanerao/eJPT-Cheatsheet
 
 
 [inewebsite]:https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student
 [notes]:https://www.notion.so/course-PTSv4-22ad4ca2ce3e4fe0a5e369217b41c9b3
+
+### Acknowledgements
+I have created this Github Repo to have all the e-JPT resources at one place. Credit goes to each individual who had created the content and shared across. Thank you!
