@@ -1,10 +1,9 @@
-### Cheat sheet
+Cheat sheet
 
 This cheat sheet is a list of commands to help with the black box pen test engagements.
 
-### Networking
-
-### Check routing table information
+Networking
+Check routing table information
 
 - $ route
 - $ ip route
