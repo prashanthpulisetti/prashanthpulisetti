@@ -5,7 +5,7 @@
 
 - I’m currently working at ECI as SOC Engineer.
 - I’m looking to collaborate with other content creators
-- 2022 Goals: e-CPPT,PNPT and OSCP
+- 2023 Goals: PNPT and Malware Analysis
 
 ### Things that I love:
 - 📕 Learning stuff
