@@ -59,7 +59,7 @@
 <br />
 
 
-[website]: https://https://tryhackme.com/p/sprashanth
+[website]: https://eventlogs.in
 [twitter]: https://twitter.com/Pulisettis
 [instagram]: https://instagram.com/prashanth_pulisetti
 [linkedin]: https://www.linkedin.com/in/pulisettiprashanth/
