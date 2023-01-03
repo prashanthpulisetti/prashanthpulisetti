@@ -67,5 +67,17 @@
 [linkedin]: https://www.linkedin.com/in/pulisettiprashanth/
 
 
+### Recent GitHub Contributions
+#### Sigma Rules 
+<!-- BLOG-POST-LIST:START -->
+- [Sharp Impersonation Detection](https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/proc_creation_win_sharp_impersonation_tool.yml)
+- [Impersonate Execution](https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/proc_creation_win_impersonate_tool.yml)
+- [Abuse Nslookup with DNS Records](https://github.com/SigmaHQ/sigma/blob/master/rules/windows/powershell/powershell_classic/posh_pc_abuse_nslookup_with_dns_records.yml)
+
+#### Atomic Red team Simulation
+- [Atomic Red Team : Abuse Nslookup with DNS records](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1059.001/T1059.001.md#atomic-test-22---abuse-nslookup-with-dns-records)
+<br />
+
+
 ### Acknowledgements
 - I built my home page off of the incredible template created by codeSTACKr. Check out the tutorial on how to make a sweet GitHub homepage [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr). And check out his profile page [here](https://github.com/codeSTACKr).
