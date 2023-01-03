@@ -24,6 +24,7 @@
 <code><img src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="45"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" height="45"></code>
 <code><img src="https://raw.githubusercontent.com/cobbr/Covenant/c53155615563cf68979820356b8430e4eb01207d/Covenant/wwwroot/images/favicon.svg" height="45"></code>
+<code><img src="https://www.cobaltstrike.com/wp-content/uploads/2022/10/fta-default-thumbnail-update-1000x1127_fta-default-thumbnail-1000x1127-1.jpg" height="60"></code>
 </div>
 
 ### Connect with me:
