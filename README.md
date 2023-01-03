@@ -40,6 +40,7 @@
 <div align=left>
 <code><img height="45" src="https://elearnsecurity.com/wp-content/uploads/eJPT.png"></code>
 <code><img height="45" src="https://miro.medium.com/max/800/1*xb3RMVfkD4w9BgIGRL9kDw.jpeg"></code>
+<code><img height="50" src="https://media.eu.badgr.com/uploads/badges/1c832a65-7006-48c0-9441-5ffab6c9616c.png"></code>
 </div>
 
 <br />
@@ -51,10 +52,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [e-JPT Complete Guide/Notes](https://github.com/prashanthpulisetti/prashanthpulisetti/blob/main/e-JPT%20IMP/README.MD)
-- [Decode Obfuscated Powershell Script in 5 mins](https://medium.com/@prashanth.pulisetti/decode-obfuscated-powershell-script-in-5-mins-dca297c04577)
-- [Hack, learn and get rewards](https://medium.com/@prashanth.pulisetti/hack-learn-and-get-rewards-f0f457cf60c2)
-- [Sakura Room Tryhackme write-up](https://github.com/prashanthpulisetti/Tryhackme/blob/main/Sakura%20Room%20Tryhackme%20write-up)
+- [Atomic Red Team 5: Abuse Nslookup with DNS Records](https://eventlogs.in/atomic-red-team-5-abuse-nslookup-with-dns-records/)
+- [Red Teaming with Caldera (Attack and Detect)](https://eventlogs.in/red-teaming-with-caldera-attack-and-detect/)
+- [Atomic Red Team 4: Bypass User Account Control](https://eventlogs.in/atomic-red-team-4-bypass-user-account-control/)
+- [Atomic Red Team 3: Detecting Bloodhound using the Download Cradle in ELK SIEM](https://eventlogs.in/atomic-red-team-3-detecting-bloodhound-using-the-download-cradle-in-elk-siem/)
 
 <br />
 
