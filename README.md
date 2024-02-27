@@ -46,8 +46,8 @@
 
 <br />
 
-[![](https://ossrank.com/widget/639215)](https://ossrank.com/c/639215-sai-prashanth-pulisetti)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=prashanthpulisetti&count_private=true&show_icons=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthpulisetti&layout=compact&count_private=true" />
 
 ### 📕 Latest Blog Posts
 
