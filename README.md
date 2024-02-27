@@ -46,8 +46,7 @@
 
 <br />
 
-![Prashanth GitHub stats](https://github-readme-stats.vercel.app/api?username=prashanthpulisetti&count_private=true&theme=dracula&show_icons=true)
-
+[![](https://ossrank.com/widget/639215)](https://ossrank.com/c/639215-sai-prashanth-pulisetti)
 
 
 ### 📕 Latest Blog Posts
