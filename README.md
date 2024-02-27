@@ -1,38 +1,28 @@
-### Hi there, I'm Sai Prashanth -  👋
+### Hi there, I'm [Sai Prashanth](https://github.com/prashanthpulisetti/) -  👋
 
-[![Website](https://img.shields.io/website?label=tryhackme.com/p/sprashanth&style=for-the-badge&url=https://tryhackme.com/p/sprashanth)](https://https://tryhackme.com/p/sprashanth)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Pulisettis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=)
+Hey there! Meet Sai Prashanth Pulisetti, a seasoned Cyber Security Specialist with over 5 years of experience in the industry. He's got some crazy skills like malware analysis, threat hunting, incident responder and much more. If you're looking for someone to amp up your organization's cybersecurity, Sai Prashanth Pulisetti's your guy. He's known for effectively identifying and preventing security threats and keeping himself up-to-date with the latest trends in the industry. With a strong work ethic and amazing communication skills, he's your go-to person for safeguarding your sensitive data from cybercrime.
 
-- I’m currently working at ECI as SOC Engineer.
-- I’m looking to collaborate with other content creators
-- 2023 Goals: PNPT and Malware Analysis
-
-### Things that I love:
-- 📕 Learning stuff
-- 🖥️ Hacking
-- 📕🖥️ Teaching Hacking
-- 🌎 Publishing open source
+- 🐞 I’m currently working as Threat Hunter / Content Developer
+- 🦀 I’m currently learning Offensive Rust 🦀
+- 📫 How to reach me: saiprashanth@eventlogs.in
+- 📝 [Want to hire me? download my resume here](https://drive.google.com/file/d/1xr_90QiB5jgRL8jllD4z22cWcklBrY51/view?usp=sharing)
 
 ### Languages and Tools:
-<div align=left>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="45" src="https://icon2.cleanpng.com/20180524/jcw/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9aa8b428.840692331527197594691.jpg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
-<code><img height="45" src="https://symbols.getvecta.com/stencil_94/16_raspberry-pi-icon.087cac93d9.svg"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" height="45"></code>
-<code><img src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png" height="45"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" height="45"></code>
-<code><img src="https://raw.githubusercontent.com/cobbr/Covenant/c53155615563cf68979820356b8430e4eb01207d/Covenant/wwwroot/images/favicon.svg" height="45"></code>
-<code><img src="https://www.cobaltstrike.com/wp-content/uploads/2022/10/fta-default-thumbnail-update-1000x1127_fta-default-thumbnail-1000x1127-1.jpg" height="60"></code>
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 ### Connect with me:
 
 [<img align="left" alt="tryhackme.com/p/sprashanth" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Prashanth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Prashanth | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Prashanth | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
