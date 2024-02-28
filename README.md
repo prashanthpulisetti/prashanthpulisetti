@@ -32,6 +32,7 @@ Hey there! Meet Sai Prashanth Pulisetti, a seasoned Cyber Security Specialist wi
 <code><img height="45" src="https://elearnsecurity.com/wp-content/uploads/eJPT.png"></code>
 <code><img height="45" src="https://miro.medium.com/max/800/1*xb3RMVfkD4w9BgIGRL9kDw.jpeg"></code>
 <code><img height="50" src="https://media.eu.badgr.com/uploads/badges/1c832a65-7006-48c0-9441-5ffab6c9616c.png"></code>
+<code><img height="50" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/88766352"></code>
 </div>
 
 <br />
