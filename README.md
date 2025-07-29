@@ -4,7 +4,7 @@ Hey there! Meet Sai Prashanth Pulisetti, a seasoned Cyber Security Specialist wi
 
 - 🐞 I’m currently working as Threat Hunter / Content Developer
 - 🦀 I’m currently learning Offensive Rust 🦀
-- 📫 How to reach me: saiprashanth@eventlogs.in
+- 📫 How to reach me: connect@prashanth.blog
 - 📝 [Want to hire me? download my resume here](https://drive.google.com/file/d/1xr_90QiB5jgRL8jllD4z22cWcklBrY51/view?usp=sharing)
 
 ### Languages and Tools:
