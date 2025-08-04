@@ -56,20 +56,13 @@ Hey there! Meet Sai Prashanth Pulisetti, a seasoned Cyber Security Specialist wi
 
 <!-- GitHub section: END -->
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Atomic Red Team 5: Abuse Nslookup with DNS Records](https://eventlogs.in/atomic-red-team-5-abuse-nslookup-with-dns-records/)
-- [Red Teaming with Caldera (Attack and Detect)](https://eventlogs.in/red-teaming-with-caldera-attack-and-detect/)
-- [Atomic Red Team 4: Bypass User Account Control](https://eventlogs.in/atomic-red-team-4-bypass-user-account-control/)
-- [Atomic Red Team 3: Detecting Bloodhound using the Download Cradle in ELK SIEM](https://eventlogs.in/atomic-red-team-3-detecting-bloodhound-using-the-download-cradle-in-elk-siem/)
 
 <br> <br />
 <br />
 
 
-[website]: https://eventlogs.in
-[twitter]: https://twitter.com/Pulisettis
+[website]: https://prashanth.blog
+[twitter]: https://twitter.com/@prashanthblogs
 [linkedin]: https://www.linkedin.com/in/pulisettiprashanth/
 
 
