@@ -1,6 +1,6 @@
 ### Hi there, I'm [Sai Prashanth](https://github.com/prashanthpulisetti/) -  👋
 
-Hey there! Meet Sai Prashanth Pulisetti, a seasoned Cyber Security Specialist with over 5 years of experience in the industry. He's got some crazy skills like malware analysis, threat hunting, incident responder and much more. If you're looking for someone to amp up your organization's cybersecurity, Sai Prashanth Pulisetti's your guy. He's known for effectively identifying and preventing security threats and keeping himself up-to-date with the latest trends in the industry. With a strong work ethic and amazing communication skills, he's your go-to person for safeguarding your sensitive data from cybercrime.
+I’m a cybersecurity junkie with over five years of experience tearing into malware, reverse engineering code, and hunting threats. Kicking off as a SOC Analyst at Alphaserver Technologies (2019–2021), I’ve climbed to leading ECI’s Security Operations Center in Hyderabad, mastering tools like Wireshark, Azure Sentinel, and CrowdStrike to keep threats at bay. Snagging Performer of the Year awards (2022, 2023) and a spot in Oracle’s Hall of Fame for nailing a critical bug fuels my drive. I’m all about outsmarting cybercriminals and sharing my passion for a safer digital world on this blog.
 
 - 🐞 I’m currently working as Threat Hunter / Content Developer
 - 🦀 I’m currently learning Offensive Rust 🦀
