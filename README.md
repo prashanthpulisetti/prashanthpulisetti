@@ -27,10 +27,6 @@ Hey there! Meet Sai Prashanth Pulisetti, a seasoned Cyber Security Specialist wi
 <br />
 
 
-### KQL-Elasticsearch-Data-Filtering
-
-📣 Calling all open-source enthusiasts! Check out the [KQL-Elasticsearch-Data-Filtering](https://github.com/prashanthpulisetti/KQL-Elasticsearch-Data-Filtering) project. It's a valuable resource for SOC analysts, providing pre-defined KQL queries for threat detection and investigation. Your contributions can help enhance its effectiveness. Let's collaborate and make cybersecurity investigations more efficient! 💻🔍
-
 
 ### Certifications 📜
 <div align=left>
