@@ -4,7 +4,7 @@ I’m a cybersecurity junkie with over five years of experience tearing into mal
 
 - 🐞 I’m currently working as Threat Hunter / Content Developer
 - 🦀 I’m currently learning Offensive Rust 🦀
-- 📫 How to reach me: connect@prashanth.blog
+- 📫 How to reach me: connect.procreate115@passmail.net
 - 📝 [Want to hire me? download my resume here](https://drive.google.com/file/d/1xr_90QiB5jgRL8jllD4z22cWcklBrY51/view?usp=sharing)
 
 ### Languages and Tools:
